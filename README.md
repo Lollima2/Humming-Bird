@@ -1,5 +1,8 @@
 # Hummingbird Robot Project
 
+<img width="1919" height="995" alt="viber_image_2025-08-19_17-33-50-353" src="https://github.com/user-attachments/assets/d94d2aa0-7015-4afa-bb8a-98f981bff941" />
+<img width="1914" height="908" alt="viber_image_2025-08-19_17-34-08-473" src="https://github.com/user-attachments/assets/0e1a5416-7d3f-45e9-804a-c1bfe3cecd3e" />
+
 ## Overview
 I created a **Hummingbird Robot** that can detect obstacles and respond intelligently.  
 The robot is programmed using **JavaScript**, and its key feature is the ability to stop and change its direction whenever it encounters an object in front of it. While navigating, the **position motors** continue to operate smoothly, ensuring continuous movement during direction changes.
